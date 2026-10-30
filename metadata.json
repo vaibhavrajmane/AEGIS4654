@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS Ocean Sentinel — Autonomous ROV & Maritime Surveillance Simulation",
+  "description": "Interactive 3D/2D underwater drone (ROV) simulation, multi-sensor fusion, SDG 14 marine conservation analytics, DSA telemetry showcase, and Gemini AI mission analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
